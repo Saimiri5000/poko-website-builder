@@ -10,6 +10,8 @@ eleventyNavigation:
   title: Home
   order: 1
 ---
+![](/_images/Header_Linkedin.webp)
+
 # Welcome !
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -24,6 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
 - Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis 
 
-###### Follow me on Instagram <logo> : [Instagram](https://www.instagram.com/verobosschaert/)
+##### Follow me on Instagram <logo> : [Instagram](https://www.instagram.com/verobosschaert/)
 
 ##### Follow me on LinkedIn <logo> : [LinkedIn Profile](https://www.linkedin.com/in/veroniquebosschaert/)
