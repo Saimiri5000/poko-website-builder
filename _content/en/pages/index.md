@@ -1,5 +1,5 @@
 ---
-translationKey: home
+translationKey: index
 lang: EN
 createdAt: 2025-07-22T10:42:00.000Z
 uuid: 9421397de4ae
