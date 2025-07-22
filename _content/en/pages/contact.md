@@ -8,6 +8,6 @@ status: published
 name: Contact
 eleventyNavigation:
   title: Contact
-  order: 2
+  order: 1
 ---
 
