@@ -10,4 +10,16 @@ eleventyNavigation:
   title: Contact
   order: 2
 ---
+Get in touch :
 
+# CONTACT
+
+Nom
+
+Email
+
+Comment nous as-tu trouvés?
+
+Un lien pour voir ton travail?
+
+Message
