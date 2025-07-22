@@ -1,7 +1,7 @@
 siteName: Vero Bosschaert
 productionUrl: https://verobosschaert.pages.dev
 languages:
-  - code: EN
+  - code: en
     name: English
     customUrlPrefix: null
     status: published
