@@ -6,6 +6,8 @@ uuid: 9421397de4ae
 localizationKey: f095fd852523
 status: published
 name: Homepage
+eleventyNavigation:
+  title: Home
 ---
 ![](/_images/Header_Linkedin.webp)
 
