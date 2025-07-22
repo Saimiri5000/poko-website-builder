@@ -1,0 +1,17 @@
+siteName: Vero Bosschaert
+productionUrl: https://verobosschaert.pages.dev
+languages:
+  - code: EN
+    name: English
+    customUrlPrefix: null
+    status: published
+    isCmsDefault: true
+    isWebsiteDefault: true
+  - code: FR
+    name: français
+    customUrlPrefix: null
+    status: draft
+    isCmsDefault: false
+    isWebsiteDefault: false
+collections:
+  - articles
