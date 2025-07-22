@@ -11,7 +11,7 @@ name: Homepage
 
 # Welcome !
 
-Follow me on Instagram <logo> : XX
+Follow me on Instagram <logo> : [Instagram](https://www.instagram.com/verobosschaert/)
 
 Follow me on LinkedIn <logo> : https://www.linkedin.com/in/veroniquebosschaert/
 
