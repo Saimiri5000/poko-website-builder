@@ -9,4 +9,10 @@ name: Homepage
 ---
 ![](/_images/Header_Linkedin.webp)
 
-Welcome !
+# Welcome !
+
+Follow me on Instagram <logo> : XX
+
+Follow me on LinkedIn <logo> : https://www.linkedin.com/in/veroniquebosschaert/
+
+[LinkedIn Profile](https://www.linkedin.com/in/veroniquebosschaert/)
