@@ -6,5 +6,8 @@ uuid: 97aba38b7c34
 localizationKey: 4207689913fe
 status: published
 name: Contact
+eleventyNavigation:
+  title: Contact
+  order: 2
 ---
 
