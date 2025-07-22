@@ -7,4 +7,4 @@ localizationKey: 6bba9050a589
 status: draft
 name: Intro_test
 ---
-Bla bla bla
+Bla bla bla On y va
