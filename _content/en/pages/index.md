@@ -8,6 +8,7 @@ status: published
 name: Homepage
 eleventyNavigation:
   title: Home
+  order: 1
 ---
 # Welcome !
 
