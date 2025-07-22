@@ -1,5 +1,6 @@
 siteName: Vero Bosschaert
 productionUrl: https://verobosschaert.pages.dev
+htmlHead: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/m4rrc0/ctx-css@c/una-scelta/dist/index.css">
 languages:
   - code: en
     name: English
